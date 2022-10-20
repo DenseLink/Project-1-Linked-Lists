@@ -1,0 +1,8 @@
+﻿  LinkedList.cpp
+  main.cpp
+C:\Users\Gary\Desktop\University of Florida Classes\Computer Science Bachelor\[3] COP3503 Programming Fundamentals 2\Project 1 Linked Lists\Project 1 Linked Lists\Project 1 Linked Lists\LinkedList.h(939,24): warning C4101:  'excpt': unreferenced local variable
+C:\Users\Gary\Desktop\University of Florida Classes\Computer Science Bachelor\[3] COP3503 Programming Fundamentals 2\Project 1 Linked Lists\Project 1 Linked Lists\Project 1 Linked Lists\LinkedList.h(907): message :  while compiling class template member function 'bool LinkedList<std::string>::RemoveAt(int)'
+C:\Users\Gary\Desktop\University of Florida Classes\Computer Science Bachelor\[3] COP3503 Programming Fundamentals 2\Project 1 Linked Lists\Project 1 Linked Lists\Project 1 Linked Lists\main.cpp(163): message :  see reference to function template instantiation 'bool LinkedList<std::string>::RemoveAt(int)' being compiled
+  Generating Code...
+C:\Users\Gary\Desktop\University of Florida Classes\Computer Science Bachelor\[3] COP3503 Programming Fundamentals 2\Project 1 Linked Lists\Project 1 Linked Lists\Project 1 Linked Lists\main.cpp(106): message :  see reference to class template instantiation 'LinkedList<std::string>' being compiled
+  Project 1 Linked Lists.vcxproj -> C:\Users\Gary\Desktop\University of Florida Classes\Computer Science Bachelor\[3] COP3503 Programming Fundamentals 2\Project 1 Linked Lists\Project 1 Linked Lists\Debug\Project 1 Linked Lists.exe
